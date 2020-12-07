@@ -1,0 +1,569 @@
+2020-12-06 18:37:45,297 [main] INFO CapturarTablaPaginacion - Carga navegador
+2020-12-06 18:37:47,116 [main] INFO CapturarTablaPaginacion - Envia la direccion URL
+2020-12-06 18:37:49,411 [main] INFO CapturarTablaPaginacion - Conecta con la base de datos
+2020-12-06 18:37:49,424 [main] INFO CapturarTablaPaginacion - Obtiene la tabla con el id example
+2020-12-06 18:37:49,436 [main] INFO CapturarTablaPaginacion - Obtiene el numero de paginas
+2020-12-06 18:37:49,437 [main] INFO CapturarTablaPaginacion - Hace el recorrido de cada pagina
+2020-12-06 18:37:49,437 [main] INFO CapturarTablaPaginacion - captura el nombre del cssSelector de la pagina
+2020-12-06 18:37:49,472 [main] INFO CapturarTablaPaginacion - Hace click en la pagina
+2020-12-06 18:37:49,485 [main] INFO CapturarTablaPaginacion - captura todas las fila de la tabla
+2020-12-06 18:37:49,485 [main] INFO CapturarTablaPaginacion - Imprime en consola el numero de filas
+2020-12-06 18:37:49,485 [main] INFO CapturarTablaPaginacion - Crea un vector de cadena de tamaño de 7 elementos
+2020-12-06 18:37:49,486 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,497 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,497 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,507 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,507 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,517 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,517 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,528 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,528 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,538 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,538 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,548 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,548 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,558 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,571 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:49,571 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,582 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,582 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,592 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,593 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,602 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,603 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,614 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,614 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,624 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,624 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,634 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,634 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,645 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,663 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:49,663 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,675 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,675 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,685 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,685 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,695 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,695 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,705 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,705 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,716 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,716 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,726 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,726 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,736 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,749 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:49,749 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,760 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,760 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,770 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,770 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,785 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,785 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,794 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,794 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,803 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,804 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,813 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,813 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,822 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,835 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:49,835 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,846 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,846 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,855 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,856 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,865 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,865 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,874 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,875 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,884 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,884 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,894 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,894 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,905 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,918 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:49,918 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:49,929 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:49,929 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,940 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,940 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,951 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,951 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,961 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,961 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,971 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,971 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,982 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:49,982 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:49,993 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,004 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,005 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,016 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,016 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,024 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,025 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,034 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,034 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,044 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,044 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,055 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,055 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,066 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,066 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,076 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,087 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,087 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,098 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,098 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,108 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,108 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,119 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,119 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,129 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,129 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,139 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,139 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,149 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,150 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,160 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,170 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,170 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,180 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,181 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,190 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,190 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,200 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,200 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,210 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,210 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,221 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,221 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,230 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,230 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,241 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,250 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,250 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,261 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,261 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,271 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,271 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,282 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,282 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,291 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,292 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,303 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,303 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,313 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,313 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,322 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,333 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,333 [main] INFO CapturarTablaPaginacion - Hace el recorrido de cada pagina
+2020-12-06 18:37:50,333 [main] INFO CapturarTablaPaginacion - captura el nombre del cssSelector de la pagina
+2020-12-06 18:37:50,371 [main] INFO CapturarTablaPaginacion - Hace click en la pagina
+2020-12-06 18:37:50,380 [main] INFO CapturarTablaPaginacion - captura todas las fila de la tabla
+2020-12-06 18:37:50,380 [main] INFO CapturarTablaPaginacion - Imprime en consola el numero de filas
+2020-12-06 18:37:50,380 [main] INFO CapturarTablaPaginacion - Crea un vector de cadena de tamaño de 7 elementos
+2020-12-06 18:37:50,380 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,390 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,390 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,400 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,400 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,409 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,410 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,419 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,419 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,429 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,429 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,439 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,440 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,449 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,458 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,458 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,469 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,469 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,478 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,478 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,488 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,488 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,498 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,499 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,508 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,508 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,518 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,518 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,528 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,537 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,537 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,548 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,548 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,558 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,558 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,568 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,568 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,578 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,578 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,588 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,588 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,598 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,598 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,607 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,617 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,617 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,627 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,627 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,636 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,636 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,647 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,647 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,656 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,656 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,666 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,666 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,676 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,676 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,687 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,695 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,695 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,705 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,705 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,716 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,716 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,725 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,725 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,736 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,736 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,746 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,746 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,756 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,757 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,767 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,776 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,776 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,787 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,787 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,798 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,799 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,808 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,808 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,818 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,818 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,827 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,827 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,837 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,837 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,848 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,856 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,856 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,866 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,866 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,876 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,876 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,886 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,886 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,895 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,895 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,905 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,905 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,915 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,915 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,925 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,934 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:50,934 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:50,944 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:50,944 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,954 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,954 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,965 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,965 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,976 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,976 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,987 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,987 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:50,997 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:50,997 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,006 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,015 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,015 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,025 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,026 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,036 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,036 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,048 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,048 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,057 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,057 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,067 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,067 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,077 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,077 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,087 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,095 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,096 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,106 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,106 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,117 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,117 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,127 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,127 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,137 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,137 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,146 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,146 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,155 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,155 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,165 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,174 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,174 [main] INFO CapturarTablaPaginacion - Hace el recorrido de cada pagina
+2020-12-06 18:37:51,174 [main] INFO CapturarTablaPaginacion - captura el nombre del cssSelector de la pagina
+2020-12-06 18:37:51,211 [main] INFO CapturarTablaPaginacion - Hace click en la pagina
+2020-12-06 18:37:51,219 [main] INFO CapturarTablaPaginacion - captura todas las fila de la tabla
+2020-12-06 18:37:51,219 [main] INFO CapturarTablaPaginacion - Imprime en consola el numero de filas
+2020-12-06 18:37:51,219 [main] INFO CapturarTablaPaginacion - Crea un vector de cadena de tamaño de 7 elementos
+2020-12-06 18:37:51,219 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,228 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,229 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,238 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,238 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,248 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,248 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,258 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,258 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,268 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,268 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,278 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,278 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,288 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,296 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,296 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,306 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,306 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,316 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,316 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,326 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,326 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,338 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,338 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,350 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,350 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,360 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,360 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,369 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,378 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,378 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,388 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,388 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,399 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,399 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,409 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,409 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,420 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,420 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,430 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,430 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,440 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,440 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,450 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,462 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,462 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,472 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,473 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,484 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,484 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,494 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,494 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,504 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,504 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,514 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,514 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,524 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,525 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,535 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,544 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,544 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,554 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,555 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,565 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,565 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,575 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,575 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,585 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,585 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,596 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,596 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,607 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,607 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,617 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,624 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,624 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,634 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,634 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,644 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,644 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,654 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,654 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,664 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,664 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,674 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,675 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,685 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,685 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,695 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,703 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,703 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,714 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,714 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,724 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,724 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,734 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,734 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,743 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,743 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,754 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,755 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,767 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,767 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,777 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,785 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,785 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,795 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,795 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,805 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,805 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,815 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,815 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,824 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,825 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,834 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,834 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,844 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,844 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,854 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,863 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,863 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,873 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,873 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,883 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,883 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,893 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,893 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,902 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,903 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,912 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,912 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,922 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,923 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,932 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,940 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:51,941 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:51,951 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:51,951 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,962 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,962 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,973 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,973 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,983 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,983 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:51,993 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:51,993 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,003 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,004 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,013 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,022 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,022 [main] INFO CapturarTablaPaginacion - Hace el recorrido de cada pagina
+2020-12-06 18:37:52,022 [main] INFO CapturarTablaPaginacion - captura el nombre del cssSelector de la pagina
+2020-12-06 18:37:52,063 [main] INFO CapturarTablaPaginacion - Hace click en la pagina
+2020-12-06 18:37:52,071 [main] INFO CapturarTablaPaginacion - captura todas las fila de la tabla
+2020-12-06 18:37:52,072 [main] INFO CapturarTablaPaginacion - Imprime en consola el numero de filas
+2020-12-06 18:37:52,072 [main] INFO CapturarTablaPaginacion - Crea un vector de cadena de tamaño de 7 elementos
+2020-12-06 18:37:52,072 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,081 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,081 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,091 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,091 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,100 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,100 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,110 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,110 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,119 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,120 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,129 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,129 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,138 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,145 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,146 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,155 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,155 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,164 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,164 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,174 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,174 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,183 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,183 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,192 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,193 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,212 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,212 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,221 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,230 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,230 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,239 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,239 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,247 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,248 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,256 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,256 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,265 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,265 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,275 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,275 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,285 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,285 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,295 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,303 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,303 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,313 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,313 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,323 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,323 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,333 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,333 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,342 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,343 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,352 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,352 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,362 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,362 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,373 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,382 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,382 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,392 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,392 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,402 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,402 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,413 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,413 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,423 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,423 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,433 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,433 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,443 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,443 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,453 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,461 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
+2020-12-06 18:37:52,461 [main] INFO CapturarTablaPaginacion - hace un recorrido en cada fila
+2020-12-06 18:37:52,471 [main] INFO CapturarTablaPaginacion - Almacena en una lista los datos de cada columna de la fila
+2020-12-06 18:37:52,471 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,482 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,482 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,492 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,492 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,502 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,503 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,512 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,512 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,521 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,521 [main] INFO CapturarTablaPaginacion - Hace un recorrido de cada valor de la celda
+2020-12-06 18:37:52,533 [main] INFO CapturarTablaPaginacion - Almacena en la matriz cada valor de la celda
+2020-12-06 18:37:52,541 [main] INFO CapturarTablaPaginacion - Inserta los valores cada columna de la fila en la tabla de la base de datos
